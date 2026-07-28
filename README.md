@@ -43,19 +43,6 @@
 
 ---
 
-### 🚀 Featured work
-
-| Project | Stack | Link |
-| --- | --- | --- |
-| **ViseWealth** | React · Apollo · GraphQL · MongoDB · Highcharts | [vise.gold](https://www.vise.gold/) |
-| **Njadwil** | Next.js · NestJS · TypeScript · PostgreSQL · i18n | [njadwil.sa](https://njadwil.sa/en) |
-| **Osai Kekkudho** | Next.js · Shopify · Framer Motion · DFINITY | [osaikekkudho.com](https://osaikekkudho.com/) |
-| **Review It** | React · AI / NLP · SaaS | [review-it.ai](https://review-it.ai/) |
-| **Docs on Chain** | Next.js · Web3 · TypeScript | [docsonchain.io](https://docsonchain.io/) |
-| **Portfolio** | Next.js 15 · TypeScript · Tailwind | [tenno-dev.vercel.app](https://tenno-dev.vercel.app) |
-
----
-
 ### 💻 Tech stack
 
 **Languages**  
@@ -120,6 +107,4 @@ Open to **remote full-stack roles**, contracts, and product collaborations.
 🌐 [tenno-dev.vercel.app](https://tenno-dev.vercel.app)  
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-tenno)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=em-Abdullah&style=flat-square&color=FD413C" alt="Profile views" />
-</p>
+

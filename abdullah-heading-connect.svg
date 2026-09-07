@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 42" width="500" height="42" role="img" aria-label="▸ Let's Connect">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 42" width="500" height="42" role="img" aria-label="Let's Connect">
 <defs>
-<style><![CDATA[
+<style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
-@keyframes fadeIn{from{opacity:0}to{opacity:1}}
-@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
-.t{opacity:0;animation:fadeIn .5s ease .1s forwards}
-.line{transform-origin:left center;animation:grow .7s cubic-bezier(.2,.8,.3,1) .3s forwards;transform:scaleX(0)}
 ]]></style>
 <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#34d399"/>
 </linearGradient>
 </defs>
-<text class="t" x="250.0" y="20" text-anchor="middle" font-size="18" font-weight="bold" fill="url(#tg)">▸ Let's Connect</text>
-<rect class="line" x="170.0" y="32" width="160" height="2" rx="1" fill="url(#tg)" opacity=".7"/>
+<text x="250.0" y="20" text-anchor="middle" font-size="18" font-weight="bold" fill="url(#tg)" opacity="0">
+  <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.1s" fill="freeze"/>
+  Let's Connect
+</text>
+<rect x="170.0" y="32" width="0" height="2" rx="1" fill="url(#tg)" opacity=".7">
+  <animate attributeName="width" from="0" to="160" dur="0.6s" begin="0.25s" fill="freeze"/>
+</rect>
 </svg>

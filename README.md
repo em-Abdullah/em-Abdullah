@@ -2,9 +2,9 @@
 
 <!-- Animated Banner — about + stack live inside the hero -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./abdullah-banner.svg?v=3">
-  <source media="(prefers-color-scheme: light)" srcset="./abdullah-banner-light.svg?v=3">
-  <img src="./abdullah-banner.svg?v=3" alt="Muhammad Abdullah — Full Stack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./abdullah-banner.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./abdullah-banner-light.svg?v=4">
+  <img src="./abdullah-banner.svg?v=4" alt="Muhammad Abdullah — Full Stack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -15,12 +15,12 @@
 <tr>
 <td width="38%" align="center" valign="middle">
 
-<img src="./abdullah-lanyard.svg?v=3" alt="Muhammad Abdullah ID badge" width="330"/>
+<img src="./abdullah-lanyard.svg?v=4" alt="Muhammad Abdullah ID badge" width="330"/>
 
 </td>
 <td width="62%" align="center" valign="middle">
 
-<img src="./abdullah-featured.svg?v=3" alt="Featured work" width="100%"/>
+<img src="./abdullah-featured.svg?v=4" alt="Featured work" width="100%"/>
 
 <p align="center">
   <a href="https://tenno-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tenno--dev-22d3ee?style=flat-square&labelColor=0c1219" alt="Portfolio"/></a>
@@ -36,16 +36,16 @@
 
 <div align="center">
 
-<img src="./abdullah-tech.svg?v=3" alt="Tech stack" width="95%"/>
+<img src="./abdullah-tech.svg?v=4" alt="Tech stack" width="95%"/>
 
 <br/><br/>
 
-<img src="./abdullah-heading-stats.svg?v=3" alt="GitHub Stats"/>
+<img src="./abdullah-heading-stats.svg?v=4" alt="GitHub Stats"/>
 
 <br/>
 
-<img src="./abdullah-stats.svg?v=3" alt="GitHub Stats" height="185"/>
-<img src="./abdullah-langs.svg?v=3" alt="Top Languages" height="185"/>
+<img src="./abdullah-stats.svg?v=4" alt="GitHub Stats" height="185"/>
+<img src="./abdullah-langs.svg?v=4" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -57,11 +57,11 @@
 
 <br/><br/>
 
-<img src="./abdullah-trophies.svg?v=3" alt="Trophies" width="95%"/>
+<img src="./abdullah-trophies.svg?v=4" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
-<img src="./abdullah-heading-snake.svg?v=3" alt="Contribution snake"/>
+<img src="./abdullah-heading-snake.svg?v=4" alt="Contribution snake"/>
 
 <br/>
 
@@ -73,7 +73,7 @@
 
 <br/><br/>
 
-<img src="./abdullah-heading-connect.svg?v=3" alt="Let's Connect"/>
+<img src="./abdullah-heading-connect.svg?v=4" alt="Let's Connect"/>
 
 <br/>
 

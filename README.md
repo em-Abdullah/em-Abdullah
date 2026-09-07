@@ -1,49 +1,69 @@
-<!-- GitHub Profile README for em-Abdullah -->
-<!-- Paste into: https://github.com/em-Abdullah/em-Abdullah → README.md -->
+<div align="center">
 
-<h1 align="center">Hi, I'm Muhammad Abdullah 👋</h1>
+<!-- Animated Banner with photo avatar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./abdullah-banner.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="./abdullah-banner-light.svg?v=2">
+  <img src="./abdullah-banner.svg?v=2" alt="Muhammad Abdullah — Full Stack Developer" width="100%"/>
+</picture>
 
-<p align="center">
-  <strong>Full Stack Developer &amp; UI/UX Designer</strong><br/>
-  Building scalable SaaS products end to end — from NestJS/GraphQL APIs to polished React/Next.js interfaces.
-</p>
+</div>
 
-<p align="center">
-  📍 Islamabad, Pakistan · Available remotely
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://tenno-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tenno--dev.vercel.app-FD413C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://tenno-dev.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/CV-Download-131518?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
-</p>
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
----
+<!-- Swinging Lanyard ID Card (your photo) -->
+<img src="./abdullah-lanyard.svg?v=2" alt="Muhammad Abdullah ID badge" width="330"/>
 
-### 🔗 Links
+</td>
+<td width="62%" valign="middle">
+
+### ▸ Featured Work
+
+| Project | Stack | Status |
+|:---|:---:|:---:|
+| — slots open — | `Next.js` `NestJS` | soon |
+| — shipping next — | `TypeScript` `GraphQL` | soon |
+| — building in public — | `React` `MongoDB` | soon |
+
+<br/>
+
+> *"I don't just ship features — I ship products people enjoy using."*
 
 <p align="left">
-  <a href="https://tenno-dev.vercel.app"><img src="https://img.shields.io/badge/Website-tenno--dev.vercel.app-FD413C?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-abdullah-tenno"><img src="https://img.shields.io/badge/LinkedIn-muhammad--abdullah--tenno-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/em-Abdullah"><img src="https://img.shields.io/badge/GitHub-em--Abdullah-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://dribbble.com/tenno_xd"><img src="https://img.shields.io/badge/Dribbble-tenno__xd-EA4C89?style=flat-square&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <a href="https://instagram.com/tenno_xd"><img src="https://img.shields.io/badge/Instagram-tenno__xd-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:abdullahhiteccs@gmail.com"><img src="https://img.shields.io/badge/Email-abdullahhiteccs%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://tenno-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tenno--dev-22d3ee?style=flat-square&labelColor=0c1219" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="https://tenno-dev.vercel.app/cv.pdf"><img src="https://img.shields.io/badge/CV-Download-34d399?style=flat-square&labelColor=0c1219" alt="CV"/></a>
 </p>
 
----
+</td>
+</tr>
+</table>
 
-### 💫 About me
+<br/>
 
-- 🔭 Full Stack Developer & UI/UX Designer shipping SaaS products end to end  
-- 🧠 Strong in **Next.js · TypeScript · NestJS · GraphQL · MongoDB / PostgreSQL**  
-- 🎨 Design-to-code workflow with **Figma → production UI**  
-- 🤖 AI-augmented builder — daily with **Cursor · Copilot · Claude Code**  
-- ☁️ Comfortable with **AWS**, Docker, and CI/CD  
-- 🤝 Open to remote roles, contracts, and collaborations  
+<div align="center">
 
----
+### ▸ About me
 
-### 💻 Tech stack
+</div>
+
+- Full Stack Developer & UI/UX Designer shipping SaaS products end to end
+- Strong in **Next.js · TypeScript · NestJS · GraphQL · MongoDB / PostgreSQL**
+- Design-to-code workflow with **Figma → production UI**
+- AI-augmented builder — daily with **Cursor · Copilot · Claude Code**
+- Comfortable with **AWS**, Docker, and CI/CD
+- Open to remote roles, contracts, and collaborations
+- Based in **Islamabad, Pakistan** · available remotely
+
+<br/>
+
+<div align="center">
+
+### ▸ Tech stack
 
 **Languages**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -80,31 +100,52 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
----
+<br/>
 
-### 📊 GitHub stats
+### ▸ GitHub Stats & Graphs
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=em-Abdullah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=em-Abdullah&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+<img src="./abdullah-stats.svg?v=2" alt="GitHub Stats" height="185"/>
+<img src="./abdullah-langs.svg?v=2" alt="Top Languages" height="185"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=em-Abdullah&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=em-Abdullah&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies" />
-</p>
+<img src="https://streak-stats.demolab.com?user=em-Abdullah&theme=transparent&hide_border=true&background=0c1219&ring=22d3ee&fire=34d399&currStreakLabel=67e8f9&sideLabels=94a3b8&sideNums=e2e8f0&dates=64748b&currStreakNum=22d3ee" alt="GitHub Streak"/>
 
----
+<br/><br/>
 
-### ✉️ Let's connect
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=em-Abdullah&bg_color=0c1219&color=22d3ee&line=34d399&point=67e8f9&area=true&area_color=0891b2&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 
-Open to **remote full-stack roles**, contracts, and product collaborations.
+<br/><br/>
 
-📧 [abdullahhiteccs@gmail.com](mailto:abdullahhiteccs@gmail.com)  
-🌐 [tenno-dev.vercel.app](https://tenno-dev.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-tenno)
+<img src="./abdullah-trophies.svg?v=2" alt="Trophies" width="95%"/>
 
+<br/><br/>
 
+### ▸ Watch the snake eat my contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/em-Abdullah/em-Abdullah/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/em-Abdullah/em-Abdullah/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/em-Abdullah/em-Abdullah/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<br/><br/>
+
+### ▸ Let's Connect
+
+<a href="mailto:abdullahhiteccs@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=0c1219" alt="Email"/></a>
+<a href="https://github.com/em-Abdullah"><img src="https://img.shields.io/badge/GitHub-0c1219?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub"/></a>
+<a href="https://tenno-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-34d399?style=for-the-badge&logo=vercel&logoColor=0c1219" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/muhammad-abdullah-tenno"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://dribbble.com/tenno_xd"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/></a>
+<a href="https://instagram.com/tenno_xd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=em-Abdullah&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*Always learning, always shipping.*
+
+</div>
